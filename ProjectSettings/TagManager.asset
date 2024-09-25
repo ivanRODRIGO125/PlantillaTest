@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Proyectil
   - Wall
+  - powerup
+  - POWERUP
+  - balaenemiga
+  - balapj
   layers:
   - Default
   - TransparentFX
